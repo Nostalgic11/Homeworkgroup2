@@ -1,0 +1,30 @@
+#hidden{
+	visibility: hidden;
+}
+#haut{
+	background: yellow;
+	width: 50%;
+	height: 150px;
+}
+#margin{
+	 background: lightblue;
+	 margin: 30px;
+}
+#bottom{
+	background: lightblue;
+	margin-bottom: 30px;
+}
+.mega{
+	background: powderblue;
+	padding: 5px;
+
+}
+.border{font-size: 26px;
+	border: 5px solid red;
+
+}
+table, tr, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: auto;
+}
